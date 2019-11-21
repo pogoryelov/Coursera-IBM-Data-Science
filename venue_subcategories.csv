@@ -1,0 +1,1516 @@
+Venue Category,Main Category,level
+Amphitheater,Arts & Entertainment,0
+Aquarium,Arts & Entertainment,0
+Arcade,Arts & Entertainment,0
+Art Gallery,Arts & Entertainment,0
+Bowling Alley,Arts & Entertainment,0
+Casino,Arts & Entertainment,0
+Circus,Arts & Entertainment,0
+Comedy Club,Arts & Entertainment,0
+Concert Hall,Arts & Entertainment,0
+Country Dance Club,Arts & Entertainment,0
+Disc Golf,Arts & Entertainment,0
+Exhibit,Arts & Entertainment,0
+General Entertainment,Arts & Entertainment,0
+Go Kart Track,Arts & Entertainment,0
+Historic Site,Arts & Entertainment,0
+Karaoke Box,Arts & Entertainment,0
+Laser Tag,Arts & Entertainment,0
+Memorial Site,Arts & Entertainment,0
+Mini Golf,Arts & Entertainment,0
+Drive-in Theater,Arts & Entertainment,0
+Drive-in Theater,Movie Theater,1
+Indie Movie Theater,Arts & Entertainment,0
+Indie Movie Theater,Movie Theater,1
+Multiplex,Arts & Entertainment,0
+Multiplex,Movie Theater,1
+Movie Theater,Arts & Entertainment,0
+Art Museum,Arts & Entertainment,0
+Art Museum,Museum,1
+Erotic Museum,Arts & Entertainment,0
+Erotic Museum,Museum,1
+History Museum,Arts & Entertainment,0
+History Museum,Museum,1
+Planetarium,Arts & Entertainment,0
+Planetarium,Museum,1
+Science Museum,Arts & Entertainment,0
+Science Museum,Museum,1
+Museum,Arts & Entertainment,0
+Jazz Club,Arts & Entertainment,0
+Jazz Club,Music Venue,1
+Piano Bar,Arts & Entertainment,0
+Piano Bar,Music Venue,1
+Rock Club,Arts & Entertainment,0
+Rock Club,Music Venue,1
+Music Venue,Arts & Entertainment,0
+Pachinko Parlor,Arts & Entertainment,0
+Dance Studio,Arts & Entertainment,0
+Dance Studio,Performing Arts Venue,1
+Indie Theater,Arts & Entertainment,0
+Indie Theater,Performing Arts Venue,1
+Opera House,Arts & Entertainment,0
+Opera House,Performing Arts Venue,1
+Theater,Arts & Entertainment,0
+Theater,Performing Arts Venue,1
+Performing Arts Venue,Arts & Entertainment,0
+Pool Hall,Arts & Entertainment,0
+Outdoor Sculpture,Arts & Entertainment,0
+Outdoor Sculpture,Public Art,1
+Street Art,Arts & Entertainment,0
+Street Art,Public Art,1
+Public Art,Arts & Entertainment,0
+Racecourse,Arts & Entertainment,0
+Racetrack,Arts & Entertainment,0
+Roller Rink,Arts & Entertainment,0
+Salsa Club,Arts & Entertainment,0
+Samba School,Arts & Entertainment,0
+Baseball Stadium,Arts & Entertainment,0
+Baseball Stadium,Stadium,1
+Basketball Stadium,Arts & Entertainment,0
+Basketball Stadium,Stadium,1
+Cricket Ground,Arts & Entertainment,0
+Cricket Ground,Stadium,1
+Football Stadium,Arts & Entertainment,0
+Football Stadium,Stadium,1
+Hockey Arena,Arts & Entertainment,0
+Hockey Arena,Stadium,1
+Rugby Stadium,Arts & Entertainment,0
+Rugby Stadium,Stadium,1
+Soccer Stadium,Arts & Entertainment,0
+Soccer Stadium,Stadium,1
+Tennis Stadium,Arts & Entertainment,0
+Tennis Stadium,Stadium,1
+Track Stadium,Arts & Entertainment,0
+Track Stadium,Stadium,1
+Stadium,Arts & Entertainment,0
+Theme Park Ride / Attraction,Arts & Entertainment,0
+Theme Park Ride / Attraction,Theme Park,1
+Theme Park,Arts & Entertainment,0
+Tour Provider,Arts & Entertainment,0
+Water Park,Arts & Entertainment,0
+Zoo Exhibit,Arts & Entertainment,0
+Zoo Exhibit,Zoo,1
+Zoo,Arts & Entertainment,0
+College Arts Building,College & University,0
+College Arts Building,College Academic Building,1
+College Communications Building,College & University,0
+College Communications Building,College Academic Building,1
+College Engineering Building,College & University,0
+College Engineering Building,College Academic Building,1
+College History Building,College & University,0
+College History Building,College Academic Building,1
+College Math Building,College & University,0
+College Math Building,College Academic Building,1
+College Science Building,College & University,0
+College Science Building,College Academic Building,1
+College Technology Building,College & University,0
+College Technology Building,College Academic Building,1
+College Academic Building,College & University,0
+College Administrative Building,College & University,0
+College Auditorium,College & University,0
+College Bookstore,College & University,0
+College Cafeteria,College & University,0
+College Classroom,College & University,0
+College Gym,College & University,0
+College Lab,College & University,0
+College Library,College & University,0
+College Quad,College & University,0
+College Rec Center,College & University,0
+College Residence Hall,College & University,0
+College Baseball Diamond,College & University,0
+College Baseball Diamond,College Stadium,1
+College Basketball Court,College & University,0
+College Basketball Court,College Stadium,1
+College Cricket Pitch,College & University,0
+College Cricket Pitch,College Stadium,1
+College Football Field,College & University,0
+College Football Field,College Stadium,1
+College Hockey Rink,College & University,0
+College Hockey Rink,College Stadium,1
+College Soccer Field,College & University,0
+College Soccer Field,College Stadium,1
+College Tennis Court,College & University,0
+College Tennis Court,College Stadium,1
+College Track,College & University,0
+College Track,College Stadium,1
+College Stadium,College & University,0
+College Theater,College & University,0
+Community College,College & University,0
+Fraternity House,College & University,0
+General College & University,College & University,0
+Law School,College & University,0
+Medical School,College & University,0
+Sorority House,College & University,0
+Student Center,College & University,0
+Trade School,College & University,0
+University,College & University,0
+Christmas Market,Event,0
+Conference,Event,0
+Convention,Event,0
+Festival,Event,0
+Line / Queue,Event,0
+Music Festival,Event,0
+Other Event,Event,0
+Parade,Event,0
+Sporting Event,Event,0
+Stoop Sale,Event,0
+Street Fair,Event,0
+Trade Fair,Event,0
+Afghan Restaurant,Food,0
+Ethiopian Restaurant,Food,0
+Ethiopian Restaurant,African Restaurant,1
+African Restaurant,Food,0
+New American Restaurant,Food,0
+New American Restaurant,American Restaurant,1
+American Restaurant,Food,0
+Burmese Restaurant,Food,0
+Burmese Restaurant,Asian Restaurant,1
+Cambodian Restaurant,Food,0
+Cambodian Restaurant,Asian Restaurant,1
+Anhui Restaurant,Food,0
+Anhui Restaurant,Asian Restaurant,1
+Anhui Restaurant,Chinese Restaurant,2
+Beijing Restaurant,Food,0
+Beijing Restaurant,Asian Restaurant,1
+Beijing Restaurant,Chinese Restaurant,2
+Cantonese Restaurant,Food,0
+Cantonese Restaurant,Asian Restaurant,1
+Cantonese Restaurant,Chinese Restaurant,2
+Cha Chaan Teng,Food,0
+Cha Chaan Teng,Asian Restaurant,1
+Cha Chaan Teng,Chinese Restaurant,2
+Chinese Aristocrat Restaurant,Food,0
+Chinese Aristocrat Restaurant,Asian Restaurant,1
+Chinese Aristocrat Restaurant,Chinese Restaurant,2
+Chinese Breakfast Place,Food,0
+Chinese Breakfast Place,Asian Restaurant,1
+Chinese Breakfast Place,Chinese Restaurant,2
+Dim Sum Restaurant,Food,0
+Dim Sum Restaurant,Asian Restaurant,1
+Dim Sum Restaurant,Chinese Restaurant,2
+Dongbei Restaurant,Food,0
+Dongbei Restaurant,Asian Restaurant,1
+Dongbei Restaurant,Chinese Restaurant,2
+Fujian Restaurant,Food,0
+Fujian Restaurant,Asian Restaurant,1
+Fujian Restaurant,Chinese Restaurant,2
+Guizhou Restaurant,Food,0
+Guizhou Restaurant,Asian Restaurant,1
+Guizhou Restaurant,Chinese Restaurant,2
+Hainan Restaurant,Food,0
+Hainan Restaurant,Asian Restaurant,1
+Hainan Restaurant,Chinese Restaurant,2
+Hakka Restaurant,Food,0
+Hakka Restaurant,Asian Restaurant,1
+Hakka Restaurant,Chinese Restaurant,2
+Henan Restaurant,Food,0
+Henan Restaurant,Asian Restaurant,1
+Henan Restaurant,Chinese Restaurant,2
+Hong Kong Restaurant,Food,0
+Hong Kong Restaurant,Asian Restaurant,1
+Hong Kong Restaurant,Chinese Restaurant,2
+Huaiyang Restaurant,Food,0
+Huaiyang Restaurant,Asian Restaurant,1
+Huaiyang Restaurant,Chinese Restaurant,2
+Hubei Restaurant,Food,0
+Hubei Restaurant,Asian Restaurant,1
+Hubei Restaurant,Chinese Restaurant,2
+Hunan Restaurant,Food,0
+Hunan Restaurant,Asian Restaurant,1
+Hunan Restaurant,Chinese Restaurant,2
+Imperial Restaurant,Food,0
+Imperial Restaurant,Asian Restaurant,1
+Imperial Restaurant,Chinese Restaurant,2
+Jiangsu Restaurant,Food,0
+Jiangsu Restaurant,Asian Restaurant,1
+Jiangsu Restaurant,Chinese Restaurant,2
+Jiangxi Restaurant,Food,0
+Jiangxi Restaurant,Asian Restaurant,1
+Jiangxi Restaurant,Chinese Restaurant,2
+Macanese Restaurant,Food,0
+Macanese Restaurant,Asian Restaurant,1
+Macanese Restaurant,Chinese Restaurant,2
+Manchu Restaurant,Food,0
+Manchu Restaurant,Asian Restaurant,1
+Manchu Restaurant,Chinese Restaurant,2
+Peking Duck Restaurant,Food,0
+Peking Duck Restaurant,Asian Restaurant,1
+Peking Duck Restaurant,Chinese Restaurant,2
+Shaanxi Restaurant,Food,0
+Shaanxi Restaurant,Asian Restaurant,1
+Shaanxi Restaurant,Chinese Restaurant,2
+Shandong Restaurant,Food,0
+Shandong Restaurant,Asian Restaurant,1
+Shandong Restaurant,Chinese Restaurant,2
+Shanghai Restaurant,Food,0
+Shanghai Restaurant,Asian Restaurant,1
+Shanghai Restaurant,Chinese Restaurant,2
+Shanxi Restaurant,Food,0
+Shanxi Restaurant,Asian Restaurant,1
+Shanxi Restaurant,Chinese Restaurant,2
+Szechuan Restaurant,Food,0
+Szechuan Restaurant,Asian Restaurant,1
+Szechuan Restaurant,Chinese Restaurant,2
+Taiwanese Restaurant,Food,0
+Taiwanese Restaurant,Asian Restaurant,1
+Taiwanese Restaurant,Chinese Restaurant,2
+Tianjin Restaurant,Food,0
+Tianjin Restaurant,Asian Restaurant,1
+Tianjin Restaurant,Chinese Restaurant,2
+Xinjiang Restaurant,Food,0
+Xinjiang Restaurant,Asian Restaurant,1
+Xinjiang Restaurant,Chinese Restaurant,2
+Yunnan Restaurant,Food,0
+Yunnan Restaurant,Asian Restaurant,1
+Yunnan Restaurant,Chinese Restaurant,2
+Zhejiang Restaurant,Food,0
+Zhejiang Restaurant,Asian Restaurant,1
+Zhejiang Restaurant,Chinese Restaurant,2
+Chinese Restaurant,Food,0
+Chinese Restaurant,Asian Restaurant,1
+Filipino Restaurant,Food,0
+Filipino Restaurant,Asian Restaurant,1
+Himalayan Restaurant,Food,0
+Himalayan Restaurant,Asian Restaurant,1
+Hotpot Restaurant,Food,0
+Hotpot Restaurant,Asian Restaurant,1
+Acehnese Restaurant,Food,0
+Acehnese Restaurant,Asian Restaurant,1
+Acehnese Restaurant,Indonesian Restaurant,2
+Balinese Restaurant,Food,0
+Balinese Restaurant,Asian Restaurant,1
+Balinese Restaurant,Indonesian Restaurant,2
+Betawinese Restaurant,Food,0
+Betawinese Restaurant,Asian Restaurant,1
+Betawinese Restaurant,Indonesian Restaurant,2
+Indonesian Meatball Place,Food,0
+Indonesian Meatball Place,Asian Restaurant,1
+Indonesian Meatball Place,Indonesian Restaurant,2
+Javanese Restaurant,Food,0
+Javanese Restaurant,Asian Restaurant,1
+Javanese Restaurant,Indonesian Restaurant,2
+Manadonese Restaurant,Food,0
+Manadonese Restaurant,Asian Restaurant,1
+Manadonese Restaurant,Indonesian Restaurant,2
+Padangnese Restaurant,Food,0
+Padangnese Restaurant,Asian Restaurant,1
+Padangnese Restaurant,Indonesian Restaurant,2
+Sundanese Restaurant,Food,0
+Sundanese Restaurant,Asian Restaurant,1
+Sundanese Restaurant,Indonesian Restaurant,2
+Indonesian Restaurant,Food,0
+Indonesian Restaurant,Asian Restaurant,1
+Donburi Restaurant,Food,0
+Donburi Restaurant,Asian Restaurant,1
+Donburi Restaurant,Japanese Restaurant,2
+Japanese Curry Restaurant,Food,0
+Japanese Curry Restaurant,Asian Restaurant,1
+Japanese Curry Restaurant,Japanese Restaurant,2
+Kaiseki Restaurant,Food,0
+Kaiseki Restaurant,Asian Restaurant,1
+Kaiseki Restaurant,Japanese Restaurant,2
+Kushikatsu Restaurant,Food,0
+Kushikatsu Restaurant,Asian Restaurant,1
+Kushikatsu Restaurant,Japanese Restaurant,2
+Monjayaki Restaurant,Food,0
+Monjayaki Restaurant,Asian Restaurant,1
+Monjayaki Restaurant,Japanese Restaurant,2
+Nabe Restaurant,Food,0
+Nabe Restaurant,Asian Restaurant,1
+Nabe Restaurant,Japanese Restaurant,2
+Okonomiyaki Restaurant,Food,0
+Okonomiyaki Restaurant,Asian Restaurant,1
+Okonomiyaki Restaurant,Japanese Restaurant,2
+Ramen Restaurant,Food,0
+Ramen Restaurant,Asian Restaurant,1
+Ramen Restaurant,Japanese Restaurant,2
+Shabu-Shabu Restaurant,Food,0
+Shabu-Shabu Restaurant,Asian Restaurant,1
+Shabu-Shabu Restaurant,Japanese Restaurant,2
+Soba Restaurant,Food,0
+Soba Restaurant,Asian Restaurant,1
+Soba Restaurant,Japanese Restaurant,2
+Sukiyaki Restaurant,Food,0
+Sukiyaki Restaurant,Asian Restaurant,1
+Sukiyaki Restaurant,Japanese Restaurant,2
+Sushi Restaurant,Food,0
+Sushi Restaurant,Asian Restaurant,1
+Sushi Restaurant,Japanese Restaurant,2
+Takoyaki Place,Food,0
+Takoyaki Place,Asian Restaurant,1
+Takoyaki Place,Japanese Restaurant,2
+Tempura Restaurant,Food,0
+Tempura Restaurant,Asian Restaurant,1
+Tempura Restaurant,Japanese Restaurant,2
+Tonkatsu Restaurant,Food,0
+Tonkatsu Restaurant,Asian Restaurant,1
+Tonkatsu Restaurant,Japanese Restaurant,2
+Udon Restaurant,Food,0
+Udon Restaurant,Asian Restaurant,1
+Udon Restaurant,Japanese Restaurant,2
+Unagi Restaurant,Food,0
+Unagi Restaurant,Asian Restaurant,1
+Unagi Restaurant,Japanese Restaurant,2
+Wagashi Place,Food,0
+Wagashi Place,Asian Restaurant,1
+Wagashi Place,Japanese Restaurant,2
+Yakitori Restaurant,Food,0
+Yakitori Restaurant,Asian Restaurant,1
+Yakitori Restaurant,Japanese Restaurant,2
+Yoshoku Restaurant,Food,0
+Yoshoku Restaurant,Asian Restaurant,1
+Yoshoku Restaurant,Japanese Restaurant,2
+Japanese Restaurant,Food,0
+Japanese Restaurant,Asian Restaurant,1
+Bossam/Jokbal Restaurant,Food,0
+Bossam/Jokbal Restaurant,Asian Restaurant,1
+Bossam/Jokbal Restaurant,Korean Restaurant,2
+Bunsik Restaurant,Food,0
+Bunsik Restaurant,Asian Restaurant,1
+Bunsik Restaurant,Korean Restaurant,2
+Gukbap Restaurant,Food,0
+Gukbap Restaurant,Asian Restaurant,1
+Gukbap Restaurant,Korean Restaurant,2
+Janguh Restaurant,Food,0
+Janguh Restaurant,Asian Restaurant,1
+Janguh Restaurant,Korean Restaurant,2
+Samgyetang Restaurant,Food,0
+Samgyetang Restaurant,Asian Restaurant,1
+Samgyetang Restaurant,Korean Restaurant,2
+Korean Restaurant,Food,0
+Korean Restaurant,Asian Restaurant,1
+Mamak Restaurant,Food,0
+Mamak Restaurant,Asian Restaurant,1
+Mamak Restaurant,Malay Restaurant,2
+Malay Restaurant,Food,0
+Malay Restaurant,Asian Restaurant,1
+Mongolian Restaurant,Food,0
+Mongolian Restaurant,Asian Restaurant,1
+Noodle House,Food,0
+Noodle House,Asian Restaurant,1
+Satay Restaurant,Food,0
+Satay Restaurant,Asian Restaurant,1
+Som Tum Restaurant,Food,0
+Som Tum Restaurant,Asian Restaurant,1
+Som Tum Restaurant,Thai Restaurant,2
+Thai Restaurant,Food,0
+Thai Restaurant,Asian Restaurant,1
+Tibetan Restaurant,Food,0
+Tibetan Restaurant,Asian Restaurant,1
+Vietnamese Restaurant,Food,0
+Vietnamese Restaurant,Asian Restaurant,1
+Asian Restaurant,Food,0
+Australian Restaurant,Food,0
+Austrian Restaurant,Food,0
+BBQ Joint,Food,0
+Bagel Shop,Food,0
+Bakery,Food,0
+Belgian Restaurant,Food,0
+Bistro,Food,0
+Breakfast Spot,Food,0
+Bubble Tea Shop,Food,0
+Buffet,Food,0
+Burger Joint,Food,0
+Cafeteria,Food,0
+Café,Food,0
+Cajun / Creole Restaurant,Food,0
+Cuban Restaurant,Food,0
+Cuban Restaurant,Caribbean Restaurant,1
+Caribbean Restaurant,Food,0
+Caucasian Restaurant,Food,0
+Coffee Shop,Food,0
+Comfort Food Restaurant,Food,0
+Creperie,Food,0
+Czech Restaurant,Food,0
+Deli / Bodega,Food,0
+Cupcake Shop,Food,0
+Cupcake Shop,Dessert Shop,1
+Frozen Yogurt Shop,Food,0
+Frozen Yogurt Shop,Dessert Shop,1
+Ice Cream Shop,Food,0
+Ice Cream Shop,Dessert Shop,1
+Pastry Shop,Food,0
+Pastry Shop,Dessert Shop,1
+Pie Shop,Food,0
+Pie Shop,Dessert Shop,1
+Dessert Shop,Food,0
+Diner,Food,0
+Donut Shop,Food,0
+Dumpling Restaurant,Food,0
+Dutch Restaurant,Food,0
+Belarusian Restaurant,Food,0
+Belarusian Restaurant,Eastern European Restaurant,1
+Bosnian Restaurant,Food,0
+Bosnian Restaurant,Eastern European Restaurant,1
+Bulgarian Restaurant,Food,0
+Bulgarian Restaurant,Eastern European Restaurant,1
+Romanian Restaurant,Food,0
+Romanian Restaurant,Eastern European Restaurant,1
+Tatar Restaurant,Food,0
+Tatar Restaurant,Eastern European Restaurant,1
+Eastern European Restaurant,Food,0
+English Restaurant,Food,0
+Falafel Restaurant,Food,0
+Fast Food Restaurant,Food,0
+Fish & Chips Shop,Food,0
+Fondue Restaurant,Food,0
+Food Court,Food,0
+Food Stand,Food,0
+Food Truck,Food,0
+Alsatian Restaurant,Food,0
+Alsatian Restaurant,French Restaurant,1
+Auvergne Restaurant,Food,0
+Auvergne Restaurant,French Restaurant,1
+Basque Restaurant,Food,0
+Basque Restaurant,French Restaurant,1
+Brasserie,Food,0
+Brasserie,French Restaurant,1
+Breton Restaurant,Food,0
+Breton Restaurant,French Restaurant,1
+Burgundian Restaurant,Food,0
+Burgundian Restaurant,French Restaurant,1
+Catalan Restaurant,Food,0
+Catalan Restaurant,French Restaurant,1
+Ch'ti Restaurant,Food,0
+Ch'ti Restaurant,French Restaurant,1
+Corsican Restaurant,Food,0
+Corsican Restaurant,French Restaurant,1
+Estaminet,Food,0
+Estaminet,French Restaurant,1
+Labour Canteen,Food,0
+Labour Canteen,French Restaurant,1
+Lyonese Bouchon,Food,0
+Lyonese Bouchon,French Restaurant,1
+Norman Restaurant,Food,0
+Norman Restaurant,French Restaurant,1
+Provençal Restaurant,Food,0
+Provençal Restaurant,French Restaurant,1
+Savoyard Restaurant,Food,0
+Savoyard Restaurant,French Restaurant,1
+Southwestern French Restaurant,Food,0
+Southwestern French Restaurant,French Restaurant,1
+French Restaurant,Food,0
+Fried Chicken Joint,Food,0
+Friterie,Food,0
+Gastropub,Food,0
+Apple Wine Pub,Food,0
+Apple Wine Pub,German Restaurant,1
+Bavarian Restaurant,Food,0
+Bavarian Restaurant,German Restaurant,1
+Bratwurst Joint,Food,0
+Bratwurst Joint,German Restaurant,1
+Currywurst Joint,Food,0
+Currywurst Joint,German Restaurant,1
+Franconian Restaurant,Food,0
+Franconian Restaurant,German Restaurant,1
+German Pop-Up Restaurant,Food,0
+German Pop-Up Restaurant,German Restaurant,1
+Palatine Restaurant,Food,0
+Palatine Restaurant,German Restaurant,1
+Rhenisch Restaurant,Food,0
+Rhenisch Restaurant,German Restaurant,1
+Schnitzel Restaurant,Food,0
+Schnitzel Restaurant,German Restaurant,1
+Silesian Restaurant,Food,0
+Silesian Restaurant,German Restaurant,1
+Swabian Restaurant,Food,0
+Swabian Restaurant,German Restaurant,1
+German Restaurant,Food,0
+Gluten-free Restaurant,Food,0
+Bougatsa Shop,Food,0
+Bougatsa Shop,Greek Restaurant,1
+Cretan Restaurant,Food,0
+Cretan Restaurant,Greek Restaurant,1
+Fish Taverna,Food,0
+Fish Taverna,Greek Restaurant,1
+Grilled Meat Restaurant,Food,0
+Grilled Meat Restaurant,Greek Restaurant,1
+Kafenio,Food,0
+Kafenio,Greek Restaurant,1
+Magirio,Food,0
+Magirio,Greek Restaurant,1
+Meze Restaurant,Food,0
+Meze Restaurant,Greek Restaurant,1
+Modern Greek Restaurant,Food,0
+Modern Greek Restaurant,Greek Restaurant,1
+Ouzeri,Food,0
+Ouzeri,Greek Restaurant,1
+Patsa Restaurant,Food,0
+Patsa Restaurant,Greek Restaurant,1
+Souvlaki Shop,Food,0
+Souvlaki Shop,Greek Restaurant,1
+Taverna,Food,0
+Taverna,Greek Restaurant,1
+Tsipouro Restaurant,Food,0
+Tsipouro Restaurant,Greek Restaurant,1
+Greek Restaurant,Food,0
+Halal Restaurant,Food,0
+Poke Place,Food,0
+Poke Place,Hawaiian Restaurant,1
+Hawaiian Restaurant,Food,0
+Hot Dog Joint,Food,0
+Hungarian Restaurant,Food,0
+Andhra Restaurant,Food,0
+Andhra Restaurant,Indian Restaurant,1
+Awadhi Restaurant,Food,0
+Awadhi Restaurant,Indian Restaurant,1
+Bengali Restaurant,Food,0
+Bengali Restaurant,Indian Restaurant,1
+Chaat Place,Food,0
+Chaat Place,Indian Restaurant,1
+Chettinad Restaurant,Food,0
+Chettinad Restaurant,Indian Restaurant,1
+Dhaba,Food,0
+Dhaba,Indian Restaurant,1
+Dosa Place,Food,0
+Dosa Place,Indian Restaurant,1
+Goan Restaurant,Food,0
+Goan Restaurant,Indian Restaurant,1
+Gujarati Restaurant,Food,0
+Gujarati Restaurant,Indian Restaurant,1
+Hyderabadi Restaurant,Food,0
+Hyderabadi Restaurant,Indian Restaurant,1
+Indian Chinese Restaurant,Food,0
+Indian Chinese Restaurant,Indian Restaurant,1
+Indian Sweet Shop,Food,0
+Indian Sweet Shop,Indian Restaurant,1
+Irani Cafe,Food,0
+Irani Cafe,Indian Restaurant,1
+Jain Restaurant,Food,0
+Jain Restaurant,Indian Restaurant,1
+Karnataka Restaurant,Food,0
+Karnataka Restaurant,Indian Restaurant,1
+Kerala Restaurant,Food,0
+Kerala Restaurant,Indian Restaurant,1
+Maharashtrian Restaurant,Food,0
+Maharashtrian Restaurant,Indian Restaurant,1
+Mughlai Restaurant,Food,0
+Mughlai Restaurant,Indian Restaurant,1
+Multicuisine Indian Restaurant,Food,0
+Multicuisine Indian Restaurant,Indian Restaurant,1
+North Indian Restaurant,Food,0
+North Indian Restaurant,Indian Restaurant,1
+Northeast Indian Restaurant,Food,0
+Northeast Indian Restaurant,Indian Restaurant,1
+Parsi Restaurant,Food,0
+Parsi Restaurant,Indian Restaurant,1
+Punjabi Restaurant,Food,0
+Punjabi Restaurant,Indian Restaurant,1
+Rajasthani Restaurant,Food,0
+Rajasthani Restaurant,Indian Restaurant,1
+South Indian Restaurant,Food,0
+South Indian Restaurant,Indian Restaurant,1
+Udupi Restaurant,Food,0
+Udupi Restaurant,Indian Restaurant,1
+Indian Restaurant,Food,0
+Irish Pub,Food,0
+Abruzzo Restaurant,Food,0
+Abruzzo Restaurant,Italian Restaurant,1
+Agriturismo,Food,0
+Agriturismo,Italian Restaurant,1
+Aosta Restaurant,Food,0
+Aosta Restaurant,Italian Restaurant,1
+Basilicata Restaurant,Food,0
+Basilicata Restaurant,Italian Restaurant,1
+Calabria Restaurant,Food,0
+Calabria Restaurant,Italian Restaurant,1
+Campanian Restaurant,Food,0
+Campanian Restaurant,Italian Restaurant,1
+Emilia Restaurant,Food,0
+Emilia Restaurant,Italian Restaurant,1
+Friuli Restaurant,Food,0
+Friuli Restaurant,Italian Restaurant,1
+Ligurian Restaurant,Food,0
+Ligurian Restaurant,Italian Restaurant,1
+Lombard Restaurant,Food,0
+Lombard Restaurant,Italian Restaurant,1
+Malga,Food,0
+Malga,Italian Restaurant,1
+Marche Restaurant,Food,0
+Marche Restaurant,Italian Restaurant,1
+Molise Restaurant,Food,0
+Molise Restaurant,Italian Restaurant,1
+Piadineria,Food,0
+Piadineria,Italian Restaurant,1
+Piedmontese Restaurant,Food,0
+Piedmontese Restaurant,Italian Restaurant,1
+Puglia Restaurant,Food,0
+Puglia Restaurant,Italian Restaurant,1
+Romagna Restaurant,Food,0
+Romagna Restaurant,Italian Restaurant,1
+Roman Restaurant,Food,0
+Roman Restaurant,Italian Restaurant,1
+Sardinian Restaurant,Food,0
+Sardinian Restaurant,Italian Restaurant,1
+Sicilian Restaurant,Food,0
+Sicilian Restaurant,Italian Restaurant,1
+South Tyrolean Restaurant,Food,0
+South Tyrolean Restaurant,Italian Restaurant,1
+Trattoria/Osteria,Food,0
+Trattoria/Osteria,Italian Restaurant,1
+Trentino Restaurant,Food,0
+Trentino Restaurant,Italian Restaurant,1
+Tuscan Restaurant,Food,0
+Tuscan Restaurant,Italian Restaurant,1
+Umbrian Restaurant,Food,0
+Umbrian Restaurant,Italian Restaurant,1
+Veneto Restaurant,Food,0
+Veneto Restaurant,Italian Restaurant,1
+Italian Restaurant,Food,0
+Kosher Restaurant,Food,0
+Kosher Restaurant,Jewish Restaurant,1
+Jewish Restaurant,Food,0
+Juice Bar,Food,0
+Kebab Restaurant,Food,0
+Arepa Restaurant,Food,0
+Arepa Restaurant,Latin American Restaurant,1
+Empanada Restaurant,Food,0
+Empanada Restaurant,Latin American Restaurant,1
+Salvadoran Restaurant,Food,0
+Salvadoran Restaurant,Latin American Restaurant,1
+Argentinian Restaurant,Food,0
+Argentinian Restaurant,Latin American Restaurant,1
+Argentinian Restaurant,South American Restaurant,2
+Acai House,Food,0
+Acai House,Latin American Restaurant,1
+Acai House,South American Restaurant,2
+Acai House,Brazilian Restaurant,3
+Baiano Restaurant,Food,0
+Baiano Restaurant,Latin American Restaurant,1
+Baiano Restaurant,South American Restaurant,2
+Baiano Restaurant,Brazilian Restaurant,3
+Central Brazilian Restaurant,Food,0
+Central Brazilian Restaurant,Latin American Restaurant,1
+Central Brazilian Restaurant,South American Restaurant,2
+Central Brazilian Restaurant,Brazilian Restaurant,3
+Churrascaria,Food,0
+Churrascaria,Latin American Restaurant,1
+Churrascaria,South American Restaurant,2
+Churrascaria,Brazilian Restaurant,3
+Empada House,Food,0
+Empada House,Latin American Restaurant,1
+Empada House,South American Restaurant,2
+Empada House,Brazilian Restaurant,3
+Goiano Restaurant,Food,0
+Goiano Restaurant,Latin American Restaurant,1
+Goiano Restaurant,South American Restaurant,2
+Goiano Restaurant,Brazilian Restaurant,3
+Mineiro Restaurant,Food,0
+Mineiro Restaurant,Latin American Restaurant,1
+Mineiro Restaurant,South American Restaurant,2
+Mineiro Restaurant,Brazilian Restaurant,3
+Northeastern Brazilian Restaurant,Food,0
+Northeastern Brazilian Restaurant,Latin American Restaurant,1
+Northeastern Brazilian Restaurant,South American Restaurant,2
+Northeastern Brazilian Restaurant,Brazilian Restaurant,3
+Northern Brazilian Restaurant,Food,0
+Northern Brazilian Restaurant,Latin American Restaurant,1
+Northern Brazilian Restaurant,South American Restaurant,2
+Northern Brazilian Restaurant,Brazilian Restaurant,3
+Pastelaria,Food,0
+Pastelaria,Latin American Restaurant,1
+Pastelaria,South American Restaurant,2
+Pastelaria,Brazilian Restaurant,3
+Southeastern Brazilian Restaurant,Food,0
+Southeastern Brazilian Restaurant,Latin American Restaurant,1
+Southeastern Brazilian Restaurant,South American Restaurant,2
+Southeastern Brazilian Restaurant,Brazilian Restaurant,3
+Southern Brazilian Restaurant,Food,0
+Southern Brazilian Restaurant,Latin American Restaurant,1
+Southern Brazilian Restaurant,South American Restaurant,2
+Southern Brazilian Restaurant,Brazilian Restaurant,3
+Tapiocaria,Food,0
+Tapiocaria,Latin American Restaurant,1
+Tapiocaria,South American Restaurant,2
+Tapiocaria,Brazilian Restaurant,3
+Brazilian Restaurant,Food,0
+Brazilian Restaurant,Latin American Restaurant,1
+Brazilian Restaurant,South American Restaurant,2
+Colombian Restaurant,Food,0
+Colombian Restaurant,Latin American Restaurant,1
+Colombian Restaurant,South American Restaurant,2
+Peruvian Restaurant,Food,0
+Peruvian Restaurant,Latin American Restaurant,1
+Peruvian Restaurant,South American Restaurant,2
+Venezuelan Restaurant,Food,0
+Venezuelan Restaurant,Latin American Restaurant,1
+Venezuelan Restaurant,South American Restaurant,2
+South American Restaurant,Food,0
+South American Restaurant,Latin American Restaurant,1
+Latin American Restaurant,Food,0
+Mac & Cheese Joint,Food,0
+Moroccan Restaurant,Food,0
+Moroccan Restaurant,Mediterranean Restaurant,1
+Mediterranean Restaurant,Food,0
+Botanero,Food,0
+Botanero,Mexican Restaurant,1
+Burrito Place,Food,0
+Burrito Place,Mexican Restaurant,1
+Taco Place,Food,0
+Taco Place,Mexican Restaurant,1
+Tex-Mex Restaurant,Food,0
+Tex-Mex Restaurant,Mexican Restaurant,1
+Yucatecan Restaurant,Food,0
+Yucatecan Restaurant,Mexican Restaurant,1
+Mexican Restaurant,Food,0
+Egyptian Restaurant,Food,0
+Egyptian Restaurant,Middle Eastern Restaurant,1
+Iraqi Restaurant,Food,0
+Iraqi Restaurant,Middle Eastern Restaurant,1
+Israeli Restaurant,Food,0
+Israeli Restaurant,Middle Eastern Restaurant,1
+Kurdish Restaurant,Food,0
+Kurdish Restaurant,Middle Eastern Restaurant,1
+Lebanese Restaurant,Food,0
+Lebanese Restaurant,Middle Eastern Restaurant,1
+Ash and Haleem Place,Food,0
+Ash and Haleem Place,Middle Eastern Restaurant,1
+Ash and Haleem Place,Persian Restaurant,2
+Dizi Place,Food,0
+Dizi Place,Middle Eastern Restaurant,1
+Dizi Place,Persian Restaurant,2
+Gilaki Restaurant,Food,0
+Gilaki Restaurant,Middle Eastern Restaurant,1
+Gilaki Restaurant,Persian Restaurant,2
+Jegaraki,Food,0
+Jegaraki,Middle Eastern Restaurant,1
+Jegaraki,Persian Restaurant,2
+Tabbakhi,Food,0
+Tabbakhi,Middle Eastern Restaurant,1
+Tabbakhi,Persian Restaurant,2
+Persian Restaurant,Food,0
+Persian Restaurant,Middle Eastern Restaurant,1
+Shawarma Place,Food,0
+Shawarma Place,Middle Eastern Restaurant,1
+Syrian Restaurant,Food,0
+Syrian Restaurant,Middle Eastern Restaurant,1
+Yemeni Restaurant,Food,0
+Yemeni Restaurant,Middle Eastern Restaurant,1
+Middle Eastern Restaurant,Food,0
+Modern European Restaurant,Food,0
+Molecular Gastronomy Restaurant,Food,0
+Pakistani Restaurant,Food,0
+Pet Café,Food,0
+Pizza Place,Food,0
+Polish Restaurant,Food,0
+Portuguese Restaurant,Food,0
+Poutine Place,Food,0
+Restaurant,Food,0
+Blini House,Food,0
+Blini House,Russian Restaurant,1
+Pelmeni House,Food,0
+Pelmeni House,Russian Restaurant,1
+Russian Restaurant,Food,0
+Salad Place,Food,0
+Sandwich Place,Food,0
+Scandinavian Restaurant,Food,0
+Scottish Restaurant,Food,0
+Seafood Restaurant,Food,0
+Slovak Restaurant,Food,0
+Snack Place,Food,0
+Soup Place,Food,0
+Southern / Soul Food Restaurant,Food,0
+Paella Restaurant,Food,0
+Paella Restaurant,Spanish Restaurant,1
+Tapas Restaurant,Food,0
+Tapas Restaurant,Spanish Restaurant,1
+Spanish Restaurant,Food,0
+Sri Lankan Restaurant,Food,0
+Steakhouse,Food,0
+Swiss Restaurant,Food,0
+Tea Room,Food,0
+Theme Restaurant,Food,0
+Truck Stop,Food,0
+Borek Place,Food,0
+Borek Place,Turkish Restaurant,1
+Cigkofte Place,Food,0
+Cigkofte Place,Turkish Restaurant,1
+Doner Restaurant,Food,0
+Doner Restaurant,Turkish Restaurant,1
+Gozleme Place,Food,0
+Gozleme Place,Turkish Restaurant,1
+Kofte Place,Food,0
+Kofte Place,Turkish Restaurant,1
+Kokoreç Restaurant,Food,0
+Kokoreç Restaurant,Turkish Restaurant,1
+Kumpir Restaurant,Food,0
+Kumpir Restaurant,Turkish Restaurant,1
+Kumru Restaurant,Food,0
+Kumru Restaurant,Turkish Restaurant,1
+Manti Place,Food,0
+Manti Place,Turkish Restaurant,1
+Meyhane,Food,0
+Meyhane,Turkish Restaurant,1
+Pide Place,Food,0
+Pide Place,Turkish Restaurant,1
+Pilavcı,Food,0
+Pilavcı,Turkish Restaurant,1
+Söğüş Place,Food,0
+Söğüş Place,Turkish Restaurant,1
+Tantuni Restaurant,Food,0
+Tantuni Restaurant,Turkish Restaurant,1
+Turkish Coffeehouse,Food,0
+Turkish Coffeehouse,Turkish Restaurant,1
+Turkish Home Cooking Restaurant,Food,0
+Turkish Home Cooking Restaurant,Turkish Restaurant,1
+Çöp Şiş Place,Food,0
+Çöp Şiş Place,Turkish Restaurant,1
+Turkish Restaurant,Food,0
+Varenyky restaurant,Food,0
+Varenyky restaurant,Ukrainian Restaurant,1
+West-Ukrainian Restaurant,Food,0
+West-Ukrainian Restaurant,Ukrainian Restaurant,1
+Ukrainian Restaurant,Food,0
+Vegetarian / Vegan Restaurant,Food,0
+Wings Joint,Food,0
+Beach Bar,Nightlife Spot,0
+Beach Bar,Bar,1
+Beer Bar,Nightlife Spot,0
+Beer Bar,Bar,1
+Beer Garden,Nightlife Spot,0
+Beer Garden,Bar,1
+Champagne Bar,Nightlife Spot,0
+Champagne Bar,Bar,1
+Cocktail Bar,Nightlife Spot,0
+Cocktail Bar,Bar,1
+Dive Bar,Nightlife Spot,0
+Dive Bar,Bar,1
+Gay Bar,Nightlife Spot,0
+Gay Bar,Bar,1
+Hookah Bar,Nightlife Spot,0
+Hookah Bar,Bar,1
+Hotel Bar,Nightlife Spot,0
+Hotel Bar,Bar,1
+Karaoke Bar,Nightlife Spot,0
+Karaoke Bar,Bar,1
+Pub,Nightlife Spot,0
+Pub,Bar,1
+Sake Bar,Nightlife Spot,0
+Sake Bar,Bar,1
+Speakeasy,Nightlife Spot,0
+Speakeasy,Bar,1
+Sports Bar,Nightlife Spot,0
+Sports Bar,Bar,1
+Tiki Bar,Nightlife Spot,0
+Tiki Bar,Bar,1
+Whisky Bar,Nightlife Spot,0
+Whisky Bar,Bar,1
+Wine Bar,Nightlife Spot,0
+Wine Bar,Bar,1
+Bar,Nightlife Spot,0
+Brewery,Nightlife Spot,0
+Lounge,Nightlife Spot,0
+Night Market,Nightlife Spot,0
+Nightclub,Nightlife Spot,0
+Other Nightlife,Nightlife Spot,0
+Strip Club,Nightlife Spot,0
+Badminton Court,Outdoors & Recreation,0
+Badminton Court,Athletics & Sports,1
+Baseball Field,Outdoors & Recreation,0
+Baseball Field,Athletics & Sports,1
+Basketball Court,Outdoors & Recreation,0
+Basketball Court,Athletics & Sports,1
+Bowling Green,Outdoors & Recreation,0
+Bowling Green,Athletics & Sports,1
+Curling Ice,Outdoors & Recreation,0
+Curling Ice,Athletics & Sports,1
+Golf Course,Outdoors & Recreation,0
+Golf Course,Athletics & Sports,1
+Golf Driving Range,Outdoors & Recreation,0
+Golf Driving Range,Athletics & Sports,1
+Boxing Gym,Outdoors & Recreation,0
+Boxing Gym,Athletics & Sports,1
+Boxing Gym,Gym / Fitness Center,2
+Climbing Gym,Outdoors & Recreation,0
+Climbing Gym,Athletics & Sports,1
+Climbing Gym,Gym / Fitness Center,2
+Cycle Studio,Outdoors & Recreation,0
+Cycle Studio,Athletics & Sports,1
+Cycle Studio,Gym / Fitness Center,2
+Gym Pool,Outdoors & Recreation,0
+Gym Pool,Athletics & Sports,1
+Gym Pool,Gym / Fitness Center,2
+Gymnastics Gym,Outdoors & Recreation,0
+Gymnastics Gym,Athletics & Sports,1
+Gymnastics Gym,Gym / Fitness Center,2
+Gym,Outdoors & Recreation,0
+Gym,Athletics & Sports,1
+Gym,Gym / Fitness Center,2
+Martial Arts Dojo,Outdoors & Recreation,0
+Martial Arts Dojo,Athletics & Sports,1
+Martial Arts Dojo,Gym / Fitness Center,2
+Outdoor Gym,Outdoors & Recreation,0
+Outdoor Gym,Athletics & Sports,1
+Outdoor Gym,Gym / Fitness Center,2
+Pilates Studio,Outdoors & Recreation,0
+Pilates Studio,Athletics & Sports,1
+Pilates Studio,Gym / Fitness Center,2
+Track,Outdoors & Recreation,0
+Track,Athletics & Sports,1
+Track,Gym / Fitness Center,2
+Weight Loss Center,Outdoors & Recreation,0
+Weight Loss Center,Athletics & Sports,1
+Weight Loss Center,Gym / Fitness Center,2
+Yoga Studio,Outdoors & Recreation,0
+Yoga Studio,Athletics & Sports,1
+Yoga Studio,Gym / Fitness Center,2
+Gym / Fitness Center,Outdoors & Recreation,0
+Gym / Fitness Center,Athletics & Sports,1
+Hockey Field,Outdoors & Recreation,0
+Hockey Field,Athletics & Sports,1
+Hockey Rink,Outdoors & Recreation,0
+Hockey Rink,Athletics & Sports,1
+Paintball Field,Outdoors & Recreation,0
+Paintball Field,Athletics & Sports,1
+Rugby Pitch,Outdoors & Recreation,0
+Rugby Pitch,Athletics & Sports,1
+Skate Park,Outdoors & Recreation,0
+Skate Park,Athletics & Sports,1
+Skating Rink,Outdoors & Recreation,0
+Skating Rink,Athletics & Sports,1
+Soccer Field,Outdoors & Recreation,0
+Soccer Field,Athletics & Sports,1
+Sports Club,Outdoors & Recreation,0
+Sports Club,Athletics & Sports,1
+Squash Court,Outdoors & Recreation,0
+Squash Court,Athletics & Sports,1
+Tennis Court,Outdoors & Recreation,0
+Tennis Court,Athletics & Sports,1
+Volleyball Court,Outdoors & Recreation,0
+Volleyball Court,Athletics & Sports,1
+Athletics & Sports,Outdoors & Recreation,0
+Bathing Area,Outdoors & Recreation,0
+Bay,Outdoors & Recreation,0
+Nudist Beach,Outdoors & Recreation,0
+Nudist Beach,Beach,1
+Surf Spot,Outdoors & Recreation,0
+Surf Spot,Beach,1
+Beach,Outdoors & Recreation,0
+Bike Trail,Outdoors & Recreation,0
+Botanical Garden,Outdoors & Recreation,0
+Bridge,Outdoors & Recreation,0
+Campground,Outdoors & Recreation,0
+Canal Lock,Outdoors & Recreation,0
+Canal,Outdoors & Recreation,0
+Castle,Outdoors & Recreation,0
+Cave,Outdoors & Recreation,0
+Cemetery,Outdoors & Recreation,0
+Dive Spot,Outdoors & Recreation,0
+Dog Run,Outdoors & Recreation,0
+Farm,Outdoors & Recreation,0
+Field,Outdoors & Recreation,0
+Fishing Spot,Outdoors & Recreation,0
+Forest,Outdoors & Recreation,0
+Fountain,Outdoors & Recreation,0
+Garden,Outdoors & Recreation,0
+Gun Range,Outdoors & Recreation,0
+Harbor / Marina,Outdoors & Recreation,0
+Hill,Outdoors & Recreation,0
+Hot Spring,Outdoors & Recreation,0
+Indoor Play Area,Outdoors & Recreation,0
+Island,Outdoors & Recreation,0
+Lake,Outdoors & Recreation,0
+Lighthouse,Outdoors & Recreation,0
+Mountain Hut,Outdoors & Recreation,0
+Mountain,Outdoors & Recreation,0
+National Park,Outdoors & Recreation,0
+Nature Preserve,Outdoors & Recreation,0
+Other Great Outdoors,Outdoors & Recreation,0
+Palace,Outdoors & Recreation,0
+Park,Outdoors & Recreation,0
+Pedestrian Plaza,Outdoors & Recreation,0
+Playground,Outdoors & Recreation,0
+Plaza,Outdoors & Recreation,0
+Pool,Outdoors & Recreation,0
+Rafting,Outdoors & Recreation,0
+Recreation Center,Outdoors & Recreation,0
+Reservoir,Outdoors & Recreation,0
+River,Outdoors & Recreation,0
+Rock Climbing Spot,Outdoors & Recreation,0
+Roof Deck,Outdoors & Recreation,0
+Scenic Lookout,Outdoors & Recreation,0
+Sculpture Garden,Outdoors & Recreation,0
+Apres Ski Bar,Outdoors & Recreation,0
+Apres Ski Bar,Ski Area,1
+Ski Chairlift,Outdoors & Recreation,0
+Ski Chairlift,Ski Area,1
+Ski Chalet,Outdoors & Recreation,0
+Ski Chalet,Ski Area,1
+Ski Lodge,Outdoors & Recreation,0
+Ski Lodge,Ski Area,1
+Ski Trail,Outdoors & Recreation,0
+Ski Trail,Ski Area,1
+Ski Area,Outdoors & Recreation,0
+Skydiving Drop Zone,Outdoors & Recreation,0
+Stables,Outdoors & Recreation,0
+State / Provincial Park,Outdoors & Recreation,0
+City,Outdoors & Recreation,0
+City,States & Municipalities,1
+County,Outdoors & Recreation,0
+County,States & Municipalities,1
+Country,Outdoors & Recreation,0
+Country,States & Municipalities,1
+Neighborhood,Outdoors & Recreation,0
+Neighborhood,States & Municipalities,1
+State,Outdoors & Recreation,0
+State,States & Municipalities,1
+Town,Outdoors & Recreation,0
+Town,States & Municipalities,1
+Village,Outdoors & Recreation,0
+Village,States & Municipalities,1
+States & Municipalities,Outdoors & Recreation,0
+Summer Camp,Outdoors & Recreation,0
+Trail,Outdoors & Recreation,0
+Tree,Outdoors & Recreation,0
+Vineyard,Outdoors & Recreation,0
+Volcano,Outdoors & Recreation,0
+Waterfall,Outdoors & Recreation,0
+Waterfront,Outdoors & Recreation,0
+Well,Outdoors & Recreation,0
+Windmill,Outdoors & Recreation,0
+Animal Shelter,Professional & Other Places,0
+Art Studio,Professional & Other Places,0
+Auditorium,Professional & Other Places,0
+Ballroom,Professional & Other Places,0
+Building,Professional & Other Places,0
+Business Center,Professional & Other Places,0
+Club House,Professional & Other Places,0
+Community Center,Professional & Other Places,0
+Meeting Room,Professional & Other Places,0
+Meeting Room,Convention Center,1
+Convention Center,Professional & Other Places,0
+Cultural Center,Professional & Other Places,0
+Distillery,Professional & Other Places,0
+Distribution Center,Professional & Other Places,0
+Outdoor Event Space,Professional & Other Places,0
+Outdoor Event Space,Event Space,1
+Event Space,Professional & Other Places,0
+Factory,Professional & Other Places,0
+Fair,Professional & Other Places,0
+Funeral Home,Professional & Other Places,0
+Capitol Building,Professional & Other Places,0
+Capitol Building,Government Building,1
+City Hall,Professional & Other Places,0
+City Hall,Government Building,1
+Courthouse,Professional & Other Places,0
+Courthouse,Government Building,1
+Embassy / Consulate,Professional & Other Places,0
+Embassy / Consulate,Government Building,1
+Fire Station,Professional & Other Places,0
+Fire Station,Government Building,1
+Monument / Landmark,Professional & Other Places,0
+Monument / Landmark,Government Building,1
+Police Station,Professional & Other Places,0
+Police Station,Government Building,1
+Town Hall,Professional & Other Places,0
+Town Hall,Government Building,1
+Government Building,Professional & Other Places,0
+Industrial Estate,Professional & Other Places,0
+Laboratory,Professional & Other Places,0
+Library,Professional & Other Places,0
+Acupuncturist,Professional & Other Places,0
+Acupuncturist,Medical Center,1
+Alternative Healer,Professional & Other Places,0
+Alternative Healer,Medical Center,1
+Chiropractor,Professional & Other Places,0
+Chiropractor,Medical Center,1
+Dentist's Office,Professional & Other Places,0
+Dentist's Office,Medical Center,1
+Doctor's Office,Professional & Other Places,0
+Doctor's Office,Medical Center,1
+Emergency Room,Professional & Other Places,0
+Emergency Room,Medical Center,1
+Eye Doctor,Professional & Other Places,0
+Eye Doctor,Medical Center,1
+Hospital Ward,Professional & Other Places,0
+Hospital Ward,Medical Center,1
+Hospital Ward,Hospital,2
+Hospital,Professional & Other Places,0
+Hospital,Medical Center,1
+Maternity Clinic,Professional & Other Places,0
+Maternity Clinic,Medical Center,1
+Medical Lab,Professional & Other Places,0
+Medical Lab,Medical Center,1
+Mental Health Office,Professional & Other Places,0
+Mental Health Office,Medical Center,1
+Nutritionist,Professional & Other Places,0
+Nutritionist,Medical Center,1
+Physical Therapist,Professional & Other Places,0
+Physical Therapist,Medical Center,1
+Rehab Center,Professional & Other Places,0
+Rehab Center,Medical Center,1
+Urgent Care Center,Professional & Other Places,0
+Urgent Care Center,Medical Center,1
+Veterinarian,Professional & Other Places,0
+Veterinarian,Medical Center,1
+Medical Center,Professional & Other Places,0
+Military Base,Professional & Other Places,0
+Non-Profit,Professional & Other Places,0
+Observatory,Professional & Other Places,0
+Advertising Agency,Professional & Other Places,0
+Advertising Agency,Office,1
+Campaign Office,Professional & Other Places,0
+Campaign Office,Office,1
+Conference Room,Professional & Other Places,0
+Conference Room,Office,1
+Corporate Amenity,Professional & Other Places,0
+Corporate Amenity,Office,1
+Corporate Cafeteria,Professional & Other Places,0
+Corporate Cafeteria,Office,1
+Corporate Coffee Shop,Professional & Other Places,0
+Corporate Coffee Shop,Office,1
+Coworking Space,Professional & Other Places,0
+Coworking Space,Office,1
+Tech Startup,Professional & Other Places,0
+Tech Startup,Office,1
+Office,Professional & Other Places,0
+Parking,Professional & Other Places,0
+Post Office,Professional & Other Places,0
+Power Plant,Professional & Other Places,0
+Prison,Professional & Other Places,0
+Radio Station,Professional & Other Places,0
+Recruiting Agency,Professional & Other Places,0
+Research Station,Professional & Other Places,0
+Adult Education Center,Professional & Other Places,0
+Adult Education Center,School,1
+Circus School,Professional & Other Places,0
+Circus School,School,1
+Cooking School,Professional & Other Places,0
+Cooking School,School,1
+Driving School,Professional & Other Places,0
+Driving School,School,1
+Elementary School,Professional & Other Places,0
+Elementary School,School,1
+Flight School,Professional & Other Places,0
+Flight School,School,1
+High School,Professional & Other Places,0
+High School,School,1
+Language School,Professional & Other Places,0
+Language School,School,1
+Middle School,Professional & Other Places,0
+Middle School,School,1
+Music School,Professional & Other Places,0
+Music School,School,1
+Nursery School,Professional & Other Places,0
+Nursery School,School,1
+Preschool,Professional & Other Places,0
+Preschool,School,1
+Private School,Professional & Other Places,0
+Private School,School,1
+Religious School,Professional & Other Places,0
+Religious School,School,1
+Swim School,Professional & Other Places,0
+Swim School,School,1
+School,Professional & Other Places,0
+Social Club,Professional & Other Places,0
+Buddhist Temple,Professional & Other Places,0
+Buddhist Temple,Spiritual Center,1
+Cemevi,Professional & Other Places,0
+Cemevi,Spiritual Center,1
+Church,Professional & Other Places,0
+Church,Spiritual Center,1
+Confucian Temple,Professional & Other Places,0
+Confucian Temple,Spiritual Center,1
+Hindu Temple,Professional & Other Places,0
+Hindu Temple,Spiritual Center,1
+Kingdom Hall,Professional & Other Places,0
+Kingdom Hall,Spiritual Center,1
+Monastery,Professional & Other Places,0
+Monastery,Spiritual Center,1
+Mosque,Professional & Other Places,0
+Mosque,Spiritual Center,1
+Prayer Room,Professional & Other Places,0
+Prayer Room,Spiritual Center,1
+Shrine,Professional & Other Places,0
+Shrine,Spiritual Center,1
+Sikh Temple,Professional & Other Places,0
+Sikh Temple,Spiritual Center,1
+Synagogue,Professional & Other Places,0
+Synagogue,Spiritual Center,1
+Temple,Professional & Other Places,0
+Temple,Spiritual Center,1
+Terreiro,Professional & Other Places,0
+Terreiro,Spiritual Center,1
+Spiritual Center,Professional & Other Places,0
+TV Station,Professional & Other Places,0
+Voting Booth,Professional & Other Places,0
+Warehouse,Professional & Other Places,0
+Waste Facility,Professional & Other Places,0
+Wedding Hall,Professional & Other Places,0
+Winery,Professional & Other Places,0
+Assisted Living,Residence,0
+Home (private),Residence,0
+Housing Development,Residence,0
+Residential Building (Apartment / Condo),Residence,0
+Trailer Park,Residence,0
+ATM,Shop & Service,0
+Adult Boutique,Shop & Service,0
+Antique Shop,Shop & Service,0
+Arts & Crafts Store,Shop & Service,0
+Astrologer,Shop & Service,0
+Auto Dealership,Shop & Service,0
+Auto Garage,Shop & Service,0
+Auto Workshop,Shop & Service,0
+Automotive Shop,Shop & Service,0
+Baby Store,Shop & Service,0
+Bank,Shop & Service,0
+Bath House,Shop & Service,0
+Batik Shop,Shop & Service,0
+Betting Shop,Shop & Service,0
+Big Box Store,Shop & Service,0
+Bike Shop,Shop & Service,0
+Board Shop,Shop & Service,0
+Bookstore,Shop & Service,0
+Bridal Shop,Shop & Service,0
+Business Service,Shop & Service,0
+Camera Store,Shop & Service,0
+Candy Store,Shop & Service,0
+Car Wash,Shop & Service,0
+Carpet Store,Shop & Service,0
+Check Cashing Service,Shop & Service,0
+Daycare,Shop & Service,0
+Daycare,Child Care Service,1
+Child Care Service,Shop & Service,0
+Chocolate Shop,Shop & Service,0
+Accessories Store,Shop & Service,0
+Accessories Store,Clothing Store,1
+Boutique,Shop & Service,0
+Boutique,Clothing Store,1
+Kids Store,Shop & Service,0
+Kids Store,Clothing Store,1
+Lingerie Store,Shop & Service,0
+Lingerie Store,Clothing Store,1
+Men's Store,Shop & Service,0
+Men's Store,Clothing Store,1
+Shoe Store,Shop & Service,0
+Shoe Store,Clothing Store,1
+Women's Store,Shop & Service,0
+Women's Store,Clothing Store,1
+Clothing Store,Shop & Service,0
+Comic Shop,Shop & Service,0
+Construction & Landscaping,Shop & Service,0
+Convenience Store,Shop & Service,0
+Cosmetics Shop,Shop & Service,0
+Costume Shop,Shop & Service,0
+Credit Union,Shop & Service,0
+Currency Exchange,Shop & Service,0
+Department Store,Shop & Service,0
+Design Studio,Shop & Service,0
+Discount Store,Shop & Service,0
+Dive Shop,Shop & Service,0
+Drugstore,Shop & Service,0
+Dry Cleaner,Shop & Service,0
+EV Charging Station,Shop & Service,0
+Electronics Store,Shop & Service,0
+Entertainment Service,Shop & Service,0
+Event Service,Shop & Service,0
+Fabric Shop,Shop & Service,0
+Film Studio,Shop & Service,0
+Financial or Legal Service,Shop & Service,0
+Fireworks Store,Shop & Service,0
+Fishing Store,Shop & Service,0
+Flea Market,Shop & Service,0
+Floating Market,Shop & Service,0
+Flower Shop,Shop & Service,0
+Beer Store,Shop & Service,0
+Beer Store,Food & Drink Shop,1
+Butcher,Shop & Service,0
+Butcher,Food & Drink Shop,1
+Cheese Shop,Shop & Service,0
+Cheese Shop,Food & Drink Shop,1
+Dairy Store,Shop & Service,0
+Dairy Store,Food & Drink Shop,1
+Farmers Market,Shop & Service,0
+Farmers Market,Food & Drink Shop,1
+Fish Market,Shop & Service,0
+Fish Market,Food & Drink Shop,1
+Food Service,Shop & Service,0
+Food Service,Food & Drink Shop,1
+Gourmet Shop,Shop & Service,0
+Gourmet Shop,Food & Drink Shop,1
+Grocery Store,Shop & Service,0
+Grocery Store,Food & Drink Shop,1
+Health Food Store,Shop & Service,0
+Health Food Store,Food & Drink Shop,1
+Kuruyemişçi,Shop & Service,0
+Kuruyemişçi,Food & Drink Shop,1
+Liquor Store,Shop & Service,0
+Liquor Store,Food & Drink Shop,1
+Organic Grocery,Shop & Service,0
+Organic Grocery,Food & Drink Shop,1
+Sausage Shop,Shop & Service,0
+Sausage Shop,Food & Drink Shop,1
+Street Food Gathering,Shop & Service,0
+Street Food Gathering,Food & Drink Shop,1
+Supermarket,Shop & Service,0
+Supermarket,Food & Drink Shop,1
+Turşucu,Shop & Service,0
+Turşucu,Food & Drink Shop,1
+Wine Shop,Shop & Service,0
+Wine Shop,Food & Drink Shop,1
+Food & Drink Shop,Shop & Service,0
+Frame Store,Shop & Service,0
+Fruit & Vegetable Store,Shop & Service,0
+Lighting Store,Shop & Service,0
+Lighting Store,Furniture / Home Store,1
+Furniture / Home Store,Shop & Service,0
+Gaming Cafe,Shop & Service,0
+Garden Center,Shop & Service,0
+Gas Station,Shop & Service,0
+Gift Shop,Shop & Service,0
+Gun Shop,Shop & Service,0
+Hardware Store,Shop & Service,0
+Health & Beauty Service,Shop & Service,0
+Herbs & Spices Store,Shop & Service,0
+Hobby Shop,Shop & Service,0
+Home Service,Shop & Service,0
+Hunting Supply,Shop & Service,0
+IT Services,Shop & Service,0
+Insurance Office,Shop & Service,0
+Internet Cafe,Shop & Service,0
+Jewelry Store,Shop & Service,0
+Kitchen Supply Store,Shop & Service,0
+Knitting Store,Shop & Service,0
+Laundromat,Shop & Service,0
+Laundry Service,Shop & Service,0
+Lawyer,Shop & Service,0
+Leather Goods Store,Shop & Service,0
+Locksmith,Shop & Service,0
+Lottery Retailer,Shop & Service,0
+Luggage Store,Shop & Service,0
+Marijuana Dispensary,Shop & Service,0
+Market,Shop & Service,0
+Massage Studio,Shop & Service,0
+Mattress Store,Shop & Service,0
+Medical Supply Store,Shop & Service,0
+Miscellaneous Shop,Shop & Service,0
+Mobile Phone Shop,Shop & Service,0
+Mobility Store,Shop & Service,0
+Motorcycle Shop,Shop & Service,0
+Motorsports Shop,Shop & Service,0
+Music Store,Shop & Service,0
+Nail Salon,Shop & Service,0
+Newsstand,Shop & Service,0
+Notary,Shop & Service,0
+Optical Shop,Shop & Service,0
+Other Repair Shop,Shop & Service,0
+Outdoor Supply Store,Shop & Service,0
+Outlet Mall,Shop & Service,0
+Outlet Store,Shop & Service,0
+Paper / Office Supplies Store,Shop & Service,0
+Pawn Shop,Shop & Service,0
+Perfume Shop,Shop & Service,0
+Pet Service,Shop & Service,0
+Pet Store,Shop & Service,0
+Pharmacy,Shop & Service,0
+Photography Lab,Shop & Service,0
+Photography Studio,Shop & Service,0
+Piercing Parlor,Shop & Service,0
+Pop-Up Shop,Shop & Service,0
+Print Shop,Shop & Service,0
+Public Bathroom,Shop & Service,0
+Real Estate Office,Shop & Service,0
+Record Shop,Shop & Service,0
+Recording Studio,Shop & Service,0
+Recycling Facility,Shop & Service,0
+Rental Service,Shop & Service,0
+Salon / Barbershop,Shop & Service,0
+Sauna / Steam Room,Shop & Service,0
+Shipping Store,Shop & Service,0
+Shoe Repair,Shop & Service,0
+Shopping Mall,Shop & Service,0
+Shopping Plaza,Shop & Service,0
+Skate Shop,Shop & Service,0
+Ski Shop,Shop & Service,0
+Smoke Shop,Shop & Service,0
+Smoothie Shop,Shop & Service,0
+Souvenir Shop,Shop & Service,0
+Spa,Shop & Service,0
+Sporting Goods Shop,Shop & Service,0
+Stationery Store,Shop & Service,0
+Storage Facility,Shop & Service,0
+Supplement Shop,Shop & Service,0
+Tailor Shop,Shop & Service,0
+Tanning Salon,Shop & Service,0
+Tattoo Parlor,Shop & Service,0
+Thrift / Vintage Store,Shop & Service,0
+Toy / Game Store,Shop & Service,0
+Travel Agency,Shop & Service,0
+Used Bookstore,Shop & Service,0
+Vape Store,Shop & Service,0
+Video Game Store,Shop & Service,0
+Video Store,Shop & Service,0
+Warehouse Store,Shop & Service,0
+Watch Shop,Shop & Service,0
+Airport Food Court,Travel & Transport,0
+Airport Food Court,Airport,1
+Airport Gate,Travel & Transport,0
+Airport Gate,Airport,1
+Airport Lounge,Travel & Transport,0
+Airport Lounge,Airport,1
+Airport Service,Travel & Transport,0
+Airport Service,Airport,1
+Airport Terminal,Travel & Transport,0
+Airport Terminal,Airport,1
+Airport Tram,Travel & Transport,0
+Airport Tram,Airport,1
+Baggage Claim,Travel & Transport,0
+Baggage Claim,Airport,1
+Plane,Travel & Transport,0
+Plane,Airport,1
+Airport,Travel & Transport,0
+Baggage Locker,Travel & Transport,0
+Bike Rental / Bike Share,Travel & Transport,0
+Boat Rental,Travel & Transport,0
+Boat or Ferry,Travel & Transport,0
+Border Crossing,Travel & Transport,0
+Bus Line,Travel & Transport,0
+Bus Line,Bus Station,1
+Bus Station,Travel & Transport,0
+Bus Stop,Travel & Transport,0
+Cable Car,Travel & Transport,0
+Cruise,Travel & Transport,0
+Duty-free Shop,Travel & Transport,0
+General Travel,Travel & Transport,0
+Heliport,Travel & Transport,0
+Bed & Breakfast,Travel & Transport,0
+Bed & Breakfast,Hotel,1
+Boarding House,Travel & Transport,0
+Boarding House,Hotel,1
+Hostel,Travel & Transport,0
+Hostel,Hotel,1
+Hotel Pool,Travel & Transport,0
+Hotel Pool,Hotel,1
+Inn,Travel & Transport,0
+Inn,Hotel,1
+Motel,Travel & Transport,0
+Motel,Hotel,1
+Resort,Travel & Transport,0
+Resort,Hotel,1
+Vacation Rental,Travel & Transport,0
+Vacation Rental,Hotel,1
+Hotel,Travel & Transport,0
+Intersection,Travel & Transport,0
+Light Rail Station,Travel & Transport,0
+Metro Station,Travel & Transport,0
+Moving Target,Travel & Transport,0
+Pier,Travel & Transport,0
+Port,Travel & Transport,0
+RV Park,Travel & Transport,0
+Rental Car Location,Travel & Transport,0
+Rest Area,Travel & Transport,0
+Road,Travel & Transport,0
+Taxi Stand,Travel & Transport,0
+Taxi,Travel & Transport,0
+Toll Booth,Travel & Transport,0
+Toll Plaza,Travel & Transport,0
+Tourist Information Center,Travel & Transport,0
+Platform,Travel & Transport,0
+Platform,Train Station,1
+Train,Travel & Transport,0
+Train,Train Station,1
+Train Station,Travel & Transport,0
+Tram Station,Travel & Transport,0
+Transportation Service,Travel & Transport,0
+Travel Lounge,Travel & Transport,0
+Tunnel,Travel & Transport,0
